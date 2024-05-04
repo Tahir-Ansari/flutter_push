@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-0 C:\Users\tahir\.gradle\caches\transforms-3\3d8c23b378611614bc6a7968ded801fb\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-1 C:\Users\tahir\.gradle\caches\transforms-3\55c7db004e285ab529c6fe57a0f80ea4\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-2 C:\Users\tahir\.gradle\caches\transforms-3\6b76b5315ad1c34794add6022d9107a2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.3-3 C:\Users\tahir\.gradle\caches\transforms-3\6eb3de00ece88264a65aea07132d5093\transformed\jetified-firebase-common-20.4.3\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 C:\Users\tahir\.gradle\caches\transforms-3\9421c9db2b013cb06d39292c2c24adee\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-5 C:\Users\tahir\.gradle\caches\transforms-3\f8293a5c8c1020a9a4c0e5fb35c32e8f\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\tahir\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.30.0\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\tahir\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.30.0\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 F:\flutter-push-notification\flutter_push\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 F:\flutter-push-notification\flutter_push\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 F:\flutter-push-notification\flutter_push\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 F:\flutter-push-notification\flutter_push\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 F:\flutter-push-notification\flutter_push\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 F:\flutter-push-notification\flutter_push\build\firebase_core\intermediates\merged_res\release

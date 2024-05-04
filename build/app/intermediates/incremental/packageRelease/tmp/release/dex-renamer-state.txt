@@ -1,0 +1,4 @@
+#Sun Apr 28 17:46:39 IST 2024
+base.0=F\:\\flutter-push-notification\\flutter_push\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
